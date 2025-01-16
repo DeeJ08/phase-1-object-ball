@@ -26,3 +26,8 @@ function goodPractices() {
 
 // then, call the function so it runs!
 goodPractices()
+
+
+function numPointsScored() {
+  return players[''];
+}
